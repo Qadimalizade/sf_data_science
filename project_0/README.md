@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавление](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -27,8 +27,17 @@
 **Что практикуем**
 Учимся писать хороший код на python
 
-**Краткая информация о данных**
 
-...
+**Краткая информация о данных** 
+Пока pass
 
-:arrow_up:[к оглавление](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/README.md#Оглавление)
+**Этапы работы над проектом**
+pass
+
+**Результат**
+Вроде научились
+
+**Выводы**
+На тройку
+
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/README.md#Оглавление)
