@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
