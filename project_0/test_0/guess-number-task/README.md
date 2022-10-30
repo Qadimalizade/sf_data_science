@@ -32,25 +32,25 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Оглавление)
 
 
 ### Результаты:  
 Научились учиться
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Оглавление)
 
 
 ### Выводы:  
 Ещё рано
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
