@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Результат)    
+[6. Выводы](https://github.com/Qadimalizade/sf_data_science/blob/main/project_0/test_0/guess-number-task/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -25,8 +25,9 @@
 Результаты оцениваются по среднему количеству попыток при 1000 повторений
 
 **Что практикуем**     
-Учимся писать хороший код на python
-
+* Учимся писать хороший код на Python.
+* Учимся работать с IDE.
+* Учимся работать с GitHub.
 
 ### Краткая информация о данных
 ....
@@ -41,13 +42,13 @@
 
 
 ### Результаты:  
-....
+Научились учиться
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Ещё рано
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
